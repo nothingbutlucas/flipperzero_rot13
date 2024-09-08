@@ -217,8 +217,8 @@ void readme_scene_on_enter(void *context) {
       "HELLO = URYYB = HELLO\n"
       "So ROT13 works for \"cipher\" and \"decipher\" at the same time.\n"
       "Source: Wikipedia\nThis application was developed by "
-      "@nothingbutlucas.\nSee the repo on codeberg:\n"
-      "codeberg.org/nothingbutlucas/flipperzero_rot13");
+      "@nothingbutlucas.\nSee the repo on github:\n"
+      "github.com/nothingbutlucas/flipperzero_rot13");
   view_dispatcher_switch_to_view(app->view_dispatcher, Rot13TextBoxView);
 }
 
